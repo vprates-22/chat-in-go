@@ -1,4 +1,4 @@
-# Chat In Go (chat-on-go)
+# Chat In Go (chat-in-go)
 
 A lightweight TCP-based Chat & Pub/Sub application built in Go. This project is a hands-on environment for training and reinforcing skills in **Go concurrency (Goroutines, Channels, sync primitives)** and **Network socket programming (TCP)**.
 
